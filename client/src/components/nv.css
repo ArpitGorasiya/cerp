@@ -1,0 +1,53 @@
+.nav-link {
+    color: #eee;
+}
+
+
+.nav-item:hover {
+    color: #000000;
+    border-radius: 5%;
+    background: #eee;
+}
+
+.nav-item {
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.dd {
+    margin-left: 30px;
+}
+
+.active {
+    background-color: #eee;
+}
+
+.sna {
+    position: fixed;
+    background-color: #4d4d4d;
+}
+
+.sn {
+    background-color: #4d4d4d;
+}
+
+.abc {
+    margin-left: 300px;
+}
+
+.sp {
+    /* margin-left: 18px; */
+    text-align: center;
+}
+
+.ac {
+    margin-left: 10px;
+}
+
+.pic {
+    margin-left: 75px;
+}
+
+.i{
+    color: #b9b9b9;
+}
